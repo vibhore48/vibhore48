@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src=https://drive.google.com/file/d/1LJ5vbp-HzvAulEs9vFenauTV7qvTn84q/view width="200"/>
+  <img src=https://github.com/vibhore48/vibhore48/blob/main/data.jpg />
 </div>
+&nbsp;
 
 <h2 align="center">Hi 👋, I'm Vibhore Aggarwal</h2>
 
