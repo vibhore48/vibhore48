@@ -21,28 +21,10 @@
 
 ### ⚙️ My Projects 
 
-#### Full-Stack Projects :
-
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Managment System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
-
-#### Web Store Extensions 
-
-* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
-* [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calender](https://github.com/getlost01/cp-contest-calender)
-
-#### Frontend Projects :
-
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience)
+* [IDENTIFYING PATTERNS OF SUCCESSFUL GAMES](https://github.com/vibhore48/IDENTIFYING_PATTERNS_GAMES)
+* [HOSPITALITY DASHBOARD REVENUE ANALISYS](https://github.com/vibhore48/HOSPITALITY_DASHBOARD_REVENUE_ANALISYS)
+* [TELECOM IDENTIFYING INEFFECTIVE OPERATORS](https://github.com/vibhore48/TELECOM_IDENTIFYING_INEFFECTIVE_OPERATORS)
+* [MOVIES RENTAL ANALYSIS](https://github.com/vibhore48/Movies_Rental_Analysis)
 
 ---
 
